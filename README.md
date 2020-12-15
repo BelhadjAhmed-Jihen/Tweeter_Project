@@ -12,4 +12,6 @@ Le but de ce tp est de :
  #Obtention de l'API:
  <p align="center">
   <img src="img.PNG" width="350" title="hover text">
+  <img src="img2.PNG" width="350" title="hover text">
+
 </p>
