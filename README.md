@@ -1,7 +1,8 @@
 
 
 # Tweeter_Project
-Le but de ce tp :
+Le but de ce tp est de :
+<br>
 •Maitriser l’API de twitter pour l’extraction des tweets
 • Maitriser la partie NLP (natural language processing) avec NLTK en Python
 • Appliquer les principes de nettoyage des données
