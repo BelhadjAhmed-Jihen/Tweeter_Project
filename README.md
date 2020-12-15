@@ -1,6 +1,6 @@
 
 
-<p color="red">Tweeter_Project</p>
+<font color="red" align="center" font-size="16">Tweeter_Project</font>
 Le but de ce tp est de :
 <br>
 •Maitriser l’API de twitter pour l’extraction des tweets
