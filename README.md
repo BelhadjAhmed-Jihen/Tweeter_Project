@@ -9,4 +9,8 @@ Le but de ce tp :
  être considérée comme une étape
  
  #Obtention de l'API:
- ![Alt text](C:\Users/DELL/Desktop/Nouveau dossier/img.png?raw=true "Title")
+ <p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+ ![Alt text](C:/Users/DELL/Desktop/Nouveau dossier/img.png?raw=true "Title")
