@@ -1,5 +1,5 @@
 
-<h3>font color= #4dc3ff>Tweeter Project</font></h3>
+<h3><font color= #4dc3ff>Tweeter Project</font></h3>
 Le but de ce tp est de :
 <br>
 •Maitriser l’API de twitter pour l’extraction des tweets
