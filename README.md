@@ -14,8 +14,8 @@ Le but de ce tp est de :
  <br>
  #Obtention de l'API:
  
-A fin d'élaborer ce travail j'ai suit les étapes suivantes:
-- Extraction des tweets en utilisant l'API et les sauvegarder dans un fichier csv
+A fin d'élaborer ce travail j'ai suit les étapes suivantes:<br>
+- Extraction des tweets en utilisant l'API et les sauvegarder dans un fichier csv <br>
 
  <p align="center">
   <img src="img.PNG" width="350" title="hover text">
@@ -23,12 +23,15 @@ A fin d'élaborer ce travail j'ai suit les étapes suivantes:
 
 </p>
 
--Nettoyage des données:
-•Elemination des colonnes unitiles tel que le UserName ,Location,Followers...
-•Suppressions des lignes dupliqués
-•Suppression des caractères spéciaux 
-•Suppression des emojis,URls..
-•Elemination des mots qui sont inutiles 
-•Tokenization 
-•
-•
+-Nettoyage des données:<br>
+•Elemination des colonnes unitiles tel que le UserName ,Location,Followers...<br>
+•Suppressions des lignes dupliqués<br>
+•Suppression des caractères spéciaux <br>
+•Suppression des emojis,URls..<br>
+•Elemination des mots qui sont inutiles <br>
+•Tokenization <br>
+•Stemming <br>
+<br>
+-Vectorisation
+<br>
+-Classification des tweets
