@@ -12,7 +12,7 @@ Le but de ce tp est de :
 <br>
  être considérée comme une étape
  <br>
- #Obtention de l'API:
+ Obtention de l'API:
  
 A fin d'élaborer ce travail j'ai suit les étapes suivantes:<br>
 - Extraction des tweets en utilisant l'API et les sauvegarder dans un fichier csv <br>
@@ -31,7 +31,6 @@ A fin d'élaborer ce travail j'ai suit les étapes suivantes:<br>
 •Elemination des mots qui sont inutiles <br>
 •Tokenization <br>
 •Stemming <br>
-<br>
 -Vectorisation
 <br>
 -Classification des tweets
