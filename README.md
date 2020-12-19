@@ -35,4 +35,4 @@ A fin d'élaborer ce travail j'ai suit les étapes suivantes:<br>
 <br>
 -Classification des tweets
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BelhadjAhmed-Jihen/Tweeter_Project/tree/main/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BelhadjAhmed-Jihen/Tweeter_Project/main)
