@@ -34,3 +34,5 @@ A fin d'élaborer ce travail j'ai suit les étapes suivantes:<br>
 -Vectorisation
 <br>
 -Classification des tweets
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BelhadjAhmed-Jihen/Tweeter_Project/tree/main/main)
